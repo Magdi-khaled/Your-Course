@@ -1,4 +1,4 @@
-#SHOP.CO
+# SHOP.CO
 - Description: E-commerce website [Clothing store]
 # Users:
 - Customer: You can order or display any product you want.
